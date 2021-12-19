@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Practice\IndexerReflectionPractice\bin\Debug\netcoreapp3.1\IndexerReflectionPractice.exe
+C:\Users\ASUS\source\repos\Practice\IndexerReflectionPractice\bin\Debug\netcoreapp3.1\IndexerReflectionPractice.deps.json
+C:\Users\ASUS\source\repos\Practice\IndexerReflectionPractice\bin\Debug\netcoreapp3.1\IndexerReflectionPractice.runtimeconfig.json
+C:\Users\ASUS\source\repos\Practice\IndexerReflectionPractice\bin\Debug\netcoreapp3.1\IndexerReflectionPractice.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Practice\IndexerReflectionPractice\bin\Debug\netcoreapp3.1\IndexerReflectionPractice.dll
+C:\Users\ASUS\source\repos\Practice\IndexerReflectionPractice\bin\Debug\netcoreapp3.1\IndexerReflectionPractice.pdb
+C:\Users\ASUS\source\repos\Practice\IndexerReflectionPractice\obj\Debug\netcoreapp3.1\IndexerReflectionPractice.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Practice\IndexerReflectionPractice\obj\Debug\netcoreapp3.1\IndexerReflectionPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Practice\IndexerReflectionPractice\obj\Debug\netcoreapp3.1\IndexerReflectionPractice.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Practice\IndexerReflectionPractice\obj\Debug\netcoreapp3.1\IndexerReflectionPractice.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Practice\IndexerReflectionPractice\obj\Debug\netcoreapp3.1\IndexerReflectionPractice.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Practice\IndexerReflectionPractice\obj\Debug\netcoreapp3.1\IndexerReflectionPractice.dll
+C:\Users\ASUS\source\repos\Practice\IndexerReflectionPractice\obj\Debug\netcoreapp3.1\IndexerReflectionPractice.pdb
+C:\Users\ASUS\source\repos\Practice\IndexerReflectionPractice\obj\Debug\netcoreapp3.1\IndexerReflectionPractice.genruntimeconfig.cache
